@@ -7,6 +7,7 @@ tags: 爬虫
 ## Problem
 
 https://httptoolkit.com/blog/intercepting-android-https/#android-certificate-stores
+https://github.com/httptoolkit/httptoolkit-server/blob/405ec0a4f165853ab0b90172710d4455559f4519/src/interceptors/android/adb-commands.ts#L256-L361
 
 证书转换
 
